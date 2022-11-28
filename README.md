@@ -1,6 +1,6 @@
 # Sounds
 
-Config.moreAudios = {   -- Aqui você pode adicionar os seus sons mods. exemplo: "aq2jzgterace","aq06nhonc30a",
+Config.moreAudios = {
     "aq2jzgterace","aq06nhonc30a","aqls7raceswap","aqtoy2jzstock","argento","ariant","aventadorv12","bgw16","cvpiv8","cw2019",
     "ea888","ecoboostv6","elegyx","f10m5","f20c","fordvoodoo","ftypesound","gresleyh","gt3rstun","hemisound",
     "lambov10","lfasound","lgcy04murciv12","m297zonda","majimagt","mbnzc63eng","monroec","mrtasty","n4g63t","npbfs",
